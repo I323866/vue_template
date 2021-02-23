@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'Vue Admin Template',
+  title: '气象中心日运行信息汇总系统',
 
   /**
    * @type {boolean} true | false
